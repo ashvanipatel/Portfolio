@@ -74,7 +74,7 @@ export default function AboutSection() {
             <h3 className="text-2xl font-bold">Hello there! 👋</h3>
             <p className="text-lg leading-relaxed">
               I am a Computer Science Engineering student from Lovely Professional University,
-              passionate about full-stack development, data structures, and building real-world projects.
+              passionate about Data Science, data structures, and building real-world projects.
               I enjoy solving coding challenges and contributing to open-source projects.
             </p>
             <p className="text-lg leading-relaxed">
