@@ -44,8 +44,8 @@ export default function Navbar() {
           href="#hero"
           className="text-2xl font-bold flex items-center gap-2"
         >
-          <span className="bg-primary text-primary-foreground rounded-lg px-2 py-1">VM</span>
-          <span className="hidden sm:block">Vikash Mishra</span>
+          <span className="bg-primary text-primary-foreground rounded-lg px-2 py-1">AP</span>
+          <span className="hidden sm:block">ASHVANI PATEL</span>
         </a>
 
         {/* Mobile menu button */}
