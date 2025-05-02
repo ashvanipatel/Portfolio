@@ -16,7 +16,7 @@ export default function AboutSection() {
     {
       icon: <Code />,
       label: "Experience",
-      value: "Full Stack Dev",
+      value: "Data Science",
     },
     {
       icon: <Calendar />,
@@ -26,7 +26,7 @@ export default function AboutSection() {
     {
       icon: <Star />,
       label: "CGPA",
-      value: "8.11/10",
+      value: "7.67/10",
     },
   ];
 
